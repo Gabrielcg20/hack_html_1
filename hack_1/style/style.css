@@ -1,0 +1,29 @@
+.blue {
+    position: relative;
+    background:#93B5C9;
+    height:150px;
+}
+
+.red{
+    position: relative;
+    background:#AB2849 ;
+    height: 300px;
+    width: 100%;
+}
+
+.minired{
+    background:#AB2849 ;
+    height: 100px;
+    width: 85%;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.centro{
+    position: absolute;
+    background:#AB2849 ;
+    height: 100px;
+    width: 95%;
+    left: 50px;
+}

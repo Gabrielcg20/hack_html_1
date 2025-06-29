@@ -1,0 +1,220 @@
+.barrainicio {
+    align-content: space-between;
+}
+
+.punto {
+    display: flex;
+    background: #7ED957;
+    height: 60px;
+    width: 60px;
+    margin: 30px   100px;
+    border-radius: 30px;
+    position: absolute;
+}
+
+.el {
+    margin: 35px 200px;
+    position: absolute;
+    font-size: 50px;
+    font-family: "Arimo", sans-serif;
+}
+
+.sm {
+    margin: 45px 800px;
+    font-size: 25px;
+    white-space: nowrap;
+    font-family: "Arimo", sans-serif;
+}
+
+.imagencentral {
+    display: flex;
+    margin-top: 150px;
+    height: 500px;
+    background-image: url(/hack_5/img/2.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-left: 0.5%;
+}
+
+.linea1 {
+    background: #00BF63;
+    height: 60px;
+    width: 470px;
+    margin-top: 80px;
+    margin-left: 1%;
+}
+
+.nf {
+    height: 27px;
+    width: 200px;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-left: 25%;
+    white-space: nowrap;
+    color: #EEEEEE;
+    font-family: "Arimo", sans-serif;
+}
+
+.linea2 {
+    background: #00BF63;
+    height: 55px;
+    width: 755px;
+    margin-top: 33px;
+    margin-left: 5%;
+}
+
+.tfsc {
+    height: 55px;
+    width: 200px;
+    font-size: 50px;
+    margin-left: 13%;
+    white-space: nowrap;
+    color: #EEEEEE;
+    font-family: "Arimo", sans-serif;
+}
+
+.linea3 {
+    background: #00BF63;
+    height: 55px;
+    width: 755px;
+    margin-top: 5px;
+    margin-left: 5%;
+}
+
+.mundialmente {
+    height: 55px;
+    width: 200px;
+    font-size: 50px;
+    margin-left: 14%;
+    white-space: nowrap;
+    color: #EEEEEE;
+    font-family: "Arimo", sans-serif;
+}
+
+
+.dm {
+    font-family: "Arimo", sans-serif;   
+    font-size: 25px;
+    color: #EEEEEE;
+    background-color: black;
+    margin-top: 20px;
+    padding-left: 28%;
+    width: 600px;
+    font-weight: 25px;
+    white-space: nowrap;
+}
+
+.dm2 {
+    font-family: "Arimo", sans-serif;   
+    font-size: 25px;
+    color: #EEEEEE;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 5%;
+    padding-left: 23%;
+    width: 380px;
+    font-weight: 25px;
+    white-space: nowrap;
+}
+
+.centro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    clear: both;
+    margin: 50px 50px 0px 50px;
+}
+
+.solucreativas {
+    font-family: "Arimo", sans-serif;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.sinimportar {
+    font-family: "Arimo", sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.contenedorimagen{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 50px;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    font-family: "Arimo", sans-serif;
+    font-weight: 900;
+    font-size: 10px;
+}
+.texto1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Arimo", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+.texto2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Arimo", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 1px;
+}
+
+.imagen{
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+}
+.imagen2{
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+    margin-bottom: 10;
+}
+.imagen3{
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+}
+
+.footer{
+    display: flex;
+    height: 50px;
+    width: 98%;
+    background:#00BF63;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1%;
+    font-family: "Arimo", sans-serif;
+}
+
+.tx1{
+    padding-left: 50px;
+    padding-right: 50x;
+    white-space: nowrap;
+    color: #EEEEEE;
+}
+

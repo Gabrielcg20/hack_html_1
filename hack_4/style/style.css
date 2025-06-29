@@ -1,0 +1,115 @@
+
+
+.linea{
+    height: 7px;
+    width: 100px;
+    background: black;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.eos {
+
+    font-size: 30px ;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Ruda", sans-serif;
+    font-weight: 900;
+}
+
+.sale{
+    font-size: 125px;
+    font-weight: bold;
+    text-align: center;
+    color: #B88940;
+    font-family: "Ruda", sans-serif;
+}
+
+.descuento{
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 25px;
+    font-family: "Ruda", sans-serif;
+}
+
+.lorem{
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 25px;
+    font-family: "Ruda", sans-serif;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+
+.lineacentral{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.lineas{
+    height: 30px;
+    background-color: #FFBD59;
+    margin-top: 25px;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+.contenedorimagen{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Ruda", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.imagen{
+    height: 280px;
+    width: 200px;
+    margin: 5px;
+}
+
+.yf{
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: 900;
+    color: #B88940;
+    font-family: "Ruda", sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.lorem2{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: "Ruda", sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
