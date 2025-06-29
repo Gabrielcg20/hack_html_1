@@ -1,0 +1,33 @@
+.blue {
+    background:#93B5C9;
+    height:100px;
+}
+
+.red{
+    background:#AB2849 ;
+    height: 180px;
+}
+
+.minired{
+    background:#AB2849 ;
+    height: 86px;
+    margin: 10px 100px;
+}
+
+.minired2 {
+    background: #AB2849;
+    width: 49.9%;
+    height: 86px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px 0 100px;
+}
+
+.centro{
+    background:#AB2849 ;
+    height: 80px;
+    margin-top: 10px;
+}
