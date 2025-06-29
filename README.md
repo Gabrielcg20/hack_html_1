@@ -1,4 +1,4 @@
-# Hacks HTML </>
+# Hacks HTML
 
 # Gabriel Cervini
 
